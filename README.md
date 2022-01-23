@@ -1,4 +1,4 @@
-# Learn the trends in stock price using Q-Learning algorithm for Reinforcement learning.
+# Learn the trends in stock price using Q-Learning algorithm of Reinforcement learning.
 
 ## Overview
 ### Learn the trends in stock price and perform a series of trades over time and end with a profit using Q-Learning algorithm for reinforcement learning. In each trade the agent can take the actions: buy/sell/hold and the agent will start with an investment capital of $100000. The agent needs to be trained to learn the trends in stock price and perform a series of trades.
