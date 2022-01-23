@@ -25,7 +25,7 @@ action in each state.
 * plot method: this method plots the reward dynamics and epsilon decay during training.
 
 
-## PLot:
+## Plot:
 
 ![total_account_val_over_time](img1.png)
 
