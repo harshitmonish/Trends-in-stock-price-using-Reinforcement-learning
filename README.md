@@ -4,8 +4,7 @@
 ### Learn the trends in stock price and perform a series of trades over time and end with a profit using Q-Learning algorithm for reinforcement learning. In each trade the agent can take the actions: buy/sell/hold and the agent will start with an investment capital of $100000. The agent needs to be trained to learn the trends in stock price and perform a series of trades.
 
 ## Dataset
-### The dataset provided is a historical stock price for Nvidia for the last 5 years. The dataset has 1258 entries starting 10/27/2016 to 10/26/2021. The features include information such as the price at which the stock opened, the intraday high and low, the price at which the stock closed, the adjusted closing price, and the volume of shares
-traded for the day.
+### The dataset provided is a historical stock price for Nvidia for the last 5 years. The dataset has 1258 entries starting 10/27/2016 to 10/26/2021. The features include information such as the price at which the stock opened, the intraday high and low, the price at which the stock closed, the adjusted closing price, and the volume of shares traded for the day.
 
 ## Implementation
 Used the Gym toolkit for developing a reinforcement learning algorithm. The environment consists of the following methods:
