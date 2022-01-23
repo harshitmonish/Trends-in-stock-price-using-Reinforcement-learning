@@ -24,6 +24,11 @@ min epsilon value to hold the decay till this value, discount factor - gamma for
 action in each state.
 * plot method: this method plots the reward dynamics and epsilon decay during training.
 
+
+## PLot:
+
 ![total_account_val_over_time](img1.png)
+
+
 # Author 
  * [Harshit Monish](https://github.com/harshitmonish)
